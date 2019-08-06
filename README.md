@@ -4,3 +4,8 @@ Neos SmartCam Original Firmware Dump
 CONFIG_INFO_FIRMWARE = 4.15.2.43
 
 https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks/pull/964
+
+
+```
+./packer.py kernel.bin rootfs.bin driver.bin appfs.bin demo.bin
+```
